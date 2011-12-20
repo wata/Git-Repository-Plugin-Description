@@ -1,0 +1,27 @@
+This is Perl module Git::Repository::Plugin::Description.
+
+INSTALLATION
+
+Git::Repository::Plugin::Description installation is straightforward. If your CPAN shell is set up,
+you should just be able to do
+
+    % cpan Git::Repository::Plugin::Description
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+DOCUMENTATION
+
+Git::Repository::Plugin::Description documentation is available as in POD. So you can do:
+
+    % perldoc Git::Repository::Plugin::Description
+
+to read the documentation online with your favorite pager.
+
+Wataru Nagasawa
